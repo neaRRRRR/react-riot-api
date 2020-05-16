@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "valorantregular";
+  src: url("../font/valorant_font-webfont.woff2") format("woff2"),
+    url("../font/valorant_font-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #b3350fc4;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 25px;
+  cursor: pointer;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  font-family: "valorantregular";
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
