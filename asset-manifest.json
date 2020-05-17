@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-riot-api/static/css/main.0bf88677.chunk.css",
+    "main.js": "/react-riot-api/static/js/main.0ce34fb7.chunk.js",
+    "main.js.map": "/react-riot-api/static/js/main.0ce34fb7.chunk.js.map",
+    "runtime-main.js": "/react-riot-api/static/js/runtime-main.69d9cfea.js",
+    "runtime-main.js.map": "/react-riot-api/static/js/runtime-main.69d9cfea.js.map",
+    "static/js/2.9a317882.chunk.js": "/react-riot-api/static/js/2.9a317882.chunk.js",
+    "static/js/2.9a317882.chunk.js.map": "/react-riot-api/static/js/2.9a317882.chunk.js.map",
+    "index.html": "/react-riot-api/index.html",
+    "precache-manifest.ea5197daa8c089bffc99aab475dba282.js": "/react-riot-api/precache-manifest.ea5197daa8c089bffc99aab475dba282.js",
+    "service-worker.js": "/react-riot-api/service-worker.js",
+    "static/css/main.0bf88677.chunk.css.map": "/react-riot-api/static/css/main.0bf88677.chunk.css.map",
+    "static/js/2.9a317882.chunk.js.LICENSE.txt": "/react-riot-api/static/js/2.9a317882.chunk.js.LICENSE.txt",
+    "static/media/card.style.css": "/react-riot-api/static/media/valorant_font-webfont.d9dafb7b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69d9cfea.js",
+    "static/js/2.9a317882.chunk.js",
+    "static/css/main.0bf88677.chunk.css",
+    "static/js/main.0ce34fb7.chunk.js"
+  ]
+}
