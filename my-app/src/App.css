@@ -9,6 +9,9 @@ h1 {
 }
 
 body {
+  
+  padding-left: 10%;
+  padding-right: 10%;
   background: #ee0979; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,

@@ -27,7 +27,7 @@ class App extends Component {
   render() {
     const { champions, searchField } = this.state;
     const filteredChamps = champions.filter((champion) =>
-      champion.name.toLowerCase().includes(searchField.toLowerCase())
+      champion.name.toLowerCase().startsWith(searchField.toLowerCase())
     );
     return (
       <div className="App">
